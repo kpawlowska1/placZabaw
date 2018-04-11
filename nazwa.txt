@@ -1,6 +1,6 @@
 zajêcia z GIT
 
 test konfliktu
-pierwszy comit
+drugi comit
 
 Karolina Pawlowska
