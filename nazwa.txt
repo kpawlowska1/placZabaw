@@ -3,4 +3,6 @@ zajêcia z GIT
 test konfliktu
 trz comit
 
+tortoise
+
 Karolina Pawlowska
